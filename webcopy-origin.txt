@@ -1,0 +1,700 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Merriweather:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Karla:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aE0lP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aE0lP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlIb7Y.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlIb7Y.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlIb7Y.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvk.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvk.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://newaup.westcoastanimations.com/
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\index.htm
+Content Type: text/html
+
+Uri: https://newaup.westcoastanimations.com/?add-to-cart=157
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\index-2.htm
+Content Type: text/html
+
+Uri: https://newaup.westcoastanimations.com/?add-to-cart=159
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\index-1.htm
+Content Type: text/html
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\bdthemes-prime-slider-lite\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/prime-slider-site.css?ver=3.15.4
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\bdthemes-prime-slider-lite\assets\css\prime-slider-site.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/bdt-uikit.min.js?ver=3.21.7
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\bdthemes-prime-slider-lite\assets\js\bdt-uikit.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/prime-slider-site.min.js?ver=3.15.4
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\bdthemes-prime-slider-lite\assets\js\prime-slider-site.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.16.2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\css\widget-carousel.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce.min.css
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.2.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.2.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.2.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.2.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.2.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.2.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.2.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-grid.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min.css?ver=4.8.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-layout-grid.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min.css?ver=4.8.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-smallscreen-grid.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.8.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-100x100.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-100x100.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-1024x1024.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-1024x1024.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-150x150.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-150x150.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-1536x1536.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-1536x1536.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-2048x2048.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-2048x2048.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-300x300.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-300x300.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-600x600.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-600x600.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/03-Updated-768x768.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\03-Updated-768x768.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/aged-professional-businesswoman-in-a-studio-e1628009178357.jpg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\aged-professional-businesswoman-in-a-studio-e1628009178357.jpg
+Content Type: image/jpeg
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/award1-1.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\award1-1.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/award2-1.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\award2-1.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/award3.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\award3.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/booklogo_-100x100.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\booklogo_-100x100.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/booklogo_.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\booklogo_.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/book_mockup_4-1-1-1-300x284.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\book_mockup_4-1-1-1-300x284.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/book_mockup_4-1-1-1-600x568.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\book_mockup_4-1-1-1-600x568.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/book_mockup_4-1-1-1.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\book_mockup_4-1-1-1.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/continuous-one-line-drawing-stack-600nw-2455706929.webp
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\continuous-one-line-drawing-stack-600nw-2455706929.webp
+Content Type: 
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/happy-young-handsome-bald-african-man-smiling-with-arms-crossed-e1628009224730.jpg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\happy-young-handsome-bald-african-man-smiling-with-arms-crossed-e1628009224730.jpg
+Content Type: image/jpeg
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-1-100x100.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-1-100x100.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-1-150x150.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-1-150x150.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-1-300x300.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-1-300x300.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-100x100.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-100x100.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-150x150.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-150x150.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-300x300.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-300x300.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-removebg-preview-300x225.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-removebg-preview-300x225.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/hardcover-book-mockup-removebg-preview.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\hardcover-book-mockup-removebg-preview.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/herobg.jpg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\herobg.jpg
+Content Type: image/jpeg
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/PNG-standing-book-mockup-1-1-1024x768.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\PNG-standing-book-mockup-1-1-1024x768.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/PNG-standing-book-mockup-1-1-1536x1152.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\PNG-standing-book-mockup-1-1-1536x1152.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/PNG-standing-book-mockup-1-1-2048x1536.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\PNG-standing-book-mockup-1-1-2048x1536.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/PNG-standing-book-mockup-1-1-300x225.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\PNG-standing-book-mockup-1-1-300x225.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/PNG-standing-book-mockup-1-1-600x450.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\PNG-standing-book-mockup-1-1-600x450.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/PNG-standing-book-mockup-1-1-768x576.png
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\PNG-standing-book-mockup-1-1-768x576.png
+Content Type: image/png
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/students-standing-in-the-library-e1628081630644-1-300x199.jpg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\students-standing-in-the-library-e1628081630644-1-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/students-standing-in-the-library-e1628081630644-1-600x398.jpg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\students-standing-in-the-library-e1628081630644-1-600x398.jpg
+Content Type: image/jpeg
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/students-standing-in-the-library-e1628081630644-1-768x510.jpg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\students-standing-in-the-library-e1628081630644-1-768x510.jpg
+Content Type: image/jpeg
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/2024/09/students-standing-in-the-library-e1628081630644-1.jpg
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\2024\09\students-standing-in-the-library-e1628081630644-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/elementor/css/global.css?ver=1727085114
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/elementor/css/post-19.css?ver=1727085114
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\elementor\css\post-19.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/elementor/css/post-293.css?ver=1727085114
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\elementor\css\post-293.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/elementor/css/post-7.css?ver=1727084781
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-content/uploads/elementor/css/post-9.css?ver=1727085114
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://newaup.westcoastanimations.com/wp-json/
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://newaup.westcoastanimations.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnewaup.westcoastanimations.com%2F
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://newaup.westcoastanimations.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnewaup.westcoastanimations.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://newaup.westcoastanimations.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://newaup.westcoastanimations.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\newaup.westcoastanimations.com\xmlrpc.php
+Content Type: text/xml
+
